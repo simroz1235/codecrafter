@@ -1,4 +1,4 @@
-# Code Crafters
+# Code Crafter
 
 ## SDG Goal: 3 - Good Health and Well-being
 
